@@ -1,7 +1,7 @@
 Dynamic Retail Dashboard in Excel
 
 
-Overview
+Overview : 
 This project presents a Dynamic Retail Dashboard built in Excel using three key datasets:
 
 Orders – Sales, shipping, and customer details.
