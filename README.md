@@ -12,7 +12,7 @@ People – Mapping of individuals to their respective regions.
 
 The dashboard is designed to provide real-time insights using Pivot Tables, Charts, and Slicers for interactive data visualization. A KPI table consolidates critical metrics to facilitate easy decision-making.
 
-Significance
+Significance :
 Retail businesses handle extensive sales and return data daily. This dashboard enables:
 ✔ Real-time KPI Monitoring – Quick access to sales, profits, and order counts.
 ✔ Profitability Analysis – Identifying top-performing and underperforming products.
@@ -22,7 +22,7 @@ Retail businesses handle extensive sales and return data daily. This dashboard e
 
 This tool is designed to support business decision-making with data-driven insights.
 
-Sample Data
+Sample Data :
 Here’s an example of how the data is structured in the dashboard:
 
 📊 Orders Table (Sample Data)
@@ -88,7 +88,7 @@ Identifies the best and worst performing subcategories.
 Tracks sales growth patterns over time for better forecasting.
 ![image](https://github.com/user-attachments/assets/b20936af-8de8-49c1-a4a7-68d310e37f53)
 
-Conclusion
+Conclusion : 
 This Dynamic Excel Dashboard is an interactive and visually rich tool for retail sales analysis. With comprehensive KPIs, sales trends, and profitability insights, businesses can:
 ✔ Improve strategic decision-making based on real-time data.
 ✔ Identify high-revenue product categories and eliminate low-performing ones.
